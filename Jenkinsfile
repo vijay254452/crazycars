@@ -9,7 +9,7 @@ pipeline {
     stages {
         stage('Checkout Code') {
             steps {
-                git branch: 'main', url: 'https://github.com/vijay254452.crazycars.git'
+                git branch: 'main', url: 'https://github.com/vijay254452/crazycars.git'
             }
         }
 
