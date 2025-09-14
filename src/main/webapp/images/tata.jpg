@@ -1,11 +1,13 @@
---2025-09-14 14:09:17--  https://images.unsplash.com/photo-1628573044443-a41b85b6f630?w=500
-Resolving images.unsplash.com (images.unsplash.com)... 151.101.210.208, 2a04:4e42:31::720
-Connecting to images.unsplash.com (images.unsplash.com)|151.101.210.208|:443... connected.
+--2025-09-14 15:24:44--  https://acko-cms.ackoassets.com/Tata_Harrier_EV_b3daa15757.jpg
+Resolving acko-cms.ackoassets.com (acko-cms.ackoassets.com)... 99.86.30.48, 99.86.30.113, 99.86.30.39, ...
+Connecting to acko-cms.ackoassets.com (acko-cms.ackoassets.com)|99.86.30.48|:443... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 42335 (41K) [image/jpeg]
-Saving to: ‘photo-1628573044443-a41b85b6f630?w=500’
+Length: 153369 (150K) [image/jpeg]
+Saving to: ‘Tata_Harrier_EV_b3daa15757.jpg’
 
-     0K .......... .......... .......... .......... .         100% 46.8M=0.001s
+     0K .......... .......... .......... .......... .......... 33% 1.86M 0s
+    50K .......... .......... .......... .......... .......... 66% 2.79M 0s
+   100K .......... .......... .......... .......... ......... 100% 2.96M=0.06s
 
-2025-09-14 14:09:18 (46.8 MB/s) - ‘photo-1628573044443-a41b85b6f630?w=500’ saved [42335/42335]
+2025-09-14 15:24:45 (2.43 MB/s) - ‘Tata_Harrier_EV_b3daa15757.jpg’ saved [153369/153369]
 
